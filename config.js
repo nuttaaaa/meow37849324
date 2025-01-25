@@ -10,17 +10,10 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "/play", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/WZN5ARrmbX",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-    {
-      name: "Koi Node V4",
-      password: "prplmoe.me",
-      host: "lavav4.prplmoe.me",
-      port: 1118,
-      secure: false
-    },
     {
       name: "INZEWORLD.COM (DE)",
       password: "saher.inzeworld.com",
